@@ -12,6 +12,7 @@ veggies = ["carrot", "cabbage", "turnip"]
 
 puts fruits
 
+#using to divide the results in the terminal
 puts "-----------------------------"
 
 puts veggies
