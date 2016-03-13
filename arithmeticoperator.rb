@@ -41,7 +41,7 @@ a = Pet.new(3)
 b = Pet.new(5)
 
 
-puts a + b
+puts a + b + 9
 puts a * b
 puts b / a
 puts a % b
