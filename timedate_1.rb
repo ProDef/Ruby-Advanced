@@ -26,8 +26,13 @@
 # -second
 # -time zone
 
+#few terminologies
 
-# for Time.new(yyyy, mm, dd, hour, minutes, seconds, "time zone")
+#gmt - greenwich
+#uct - co-ordinated universal time
+#epoch - January 1st 1970
+
+# for Time.new(yyyy, mm, dd, hour, min, sec, "time zone")
 
 # Time.new(2016, 3, 27, 9, 59, 0,  "+0:00") 2016-03-27 21-59-00 +0000
 
