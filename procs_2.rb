@@ -18,4 +18,4 @@ block.call
 # one simple way to create lamda 
 pupil = lambda { |var1, var2| puts "yes we have both #{var1} and #{var2} going to this school"}
 
-pupil.call("abdi", "hamza")
+pupil.call("abdi", "hamza")git step(2) { nnn }
